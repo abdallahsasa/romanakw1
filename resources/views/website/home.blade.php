@@ -37,18 +37,23 @@
                         <ul class="info_list ul_li_block">
                             <li>
                                 <h4>{{__('home.left1')}}</h4>
+                                <p>{{__('home.left1_description')}}</p>
                                 <div class="count">
                                     <span>01</span>
                                 </div>
                             </li>
                             <li>
                                 <h4>{{__('home.left2')}}</h4>
+                                <p>{{__('home.left2_description')}}</p>
+
                                 <div class="count">
                                     <span>02</span>
                                 </div>
                             </li>
                             <li>
                                 <h4>{{__('home.left3')}}</h4>
+                                <p>{{__('home.left3_description')}}</p>
+
                                 <div class="count">
                                     <span>03</span>
                                 </div>
